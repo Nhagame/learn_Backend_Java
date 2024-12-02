@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c446e296-2439-4b32-b6c9-2bbcfd6129f6" name="Changes" comment="BaiBuoi4">
+      <change beforePath="$PROJECT_DIR$/../BaiTapBuoi3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTapBuoi3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTapBuoi3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTapBuoi3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTapBuoi3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTapBuoi3/BaiTapBuoi3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTapBuoi3/src/Bai1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTapBuoi3/src/Bai2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTapBuoi3/src/Bai3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTapBuoi3/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTapVeNhaBuoi2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTapVeNhaBuoi2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTapVeNhaBuoi2/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTapVeNhaBuoi2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTapVeNhaBuoi2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTapVeNhaBuoi2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTapVeNhaBuoi2/BaiTapVeNhaBuoi2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTapVeNhaBuoi2/src/Bai1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTapVeNhaBuoi2/src/Bai2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTapVeNhaBuoi2/src/Bai3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTapVeNhaBuoi2/src/Bai5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTapVeNhaBuoi2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTapVeNhaBuoi2/src/bai4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Baitapbuoi4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bai1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bai2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bai3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MapAnhHashmap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi2/Buoi2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi2/src/Buoi2/buoi2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi3/Buoi3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi3/src/Bai1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi3/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi3/src/bai2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi4/Buoi4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi4/src/Bai1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Buoi4/src/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/../../../.." source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2pbnYlf1T8mKsMw3bz2yFGDhDgr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Bai1.executor": "Run",
+    "Application.Bai2.executor": "Run",
+    "Application.Bai3.executor": "Run",
+    "Application.MapAnhHashmap.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Admin/Desktop/note T3h backend java/Project/learn/Buoi_4/Baitapbuoi4",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c446e296-2439-4b32-b6c9-2bbcfd6129f6" name="Changes" comment="" />
+      <created>1733043697162</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733043697162</updated>
+      <workItem from="1733043700541" duration="4765000" />
+      <workItem from="1733068832066" duration="16374000" />
+    </task>
+    <task id="LOCAL-00001" summary="BaiBuoi4">
+      <option name="closed" value="true" />
+      <created>1733138503313</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733138503313</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="BaiBuoi4" />
+    <option name="LAST_COMMIT_MESSAGE" value="BaiBuoi4" />
+  </component>
+</project>
